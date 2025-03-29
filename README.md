@@ -2,7 +2,7 @@
 
 ## ***Business Understanding***
 
-Jaya Jaya Maju 🌟 adalah sebuah perusahaan multinasional yang didirikan pada tahun 2000. Perusahaan ini memiliki lebih dari 1000 karyawan 👥 yang tersebar di berbagai daerah di seluruh negara 🇮🇩.
+Jaya Jaya Maju 🌟 adalah sebuah perusahaan multinasional yang didirikan pada tahun 2000. Perusahaan ini memiliki lebih dari 1000 karyawan 👥 yang tersebar di berbagai daerah di seluruh negara Indonesia.
 
 ### Permasalahan Bisnis
 
